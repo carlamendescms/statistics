@@ -1,3 +1,6 @@
 [submodule "descriptive-statistics"]
 	path = descriptive-statistics
 	url = git@github.com:carlamendescms/descriptive-statistics.git
+[submodule "exploratory-data-analytics_descriptive-statistics"]
+	path = exploratory-data-analytics_descriptive-statistics
+	url = git@github.com:carlamendescms/exploratory-data-analytics_descriptive-statistics.git
